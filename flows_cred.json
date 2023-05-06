@@ -1,0 +1,13 @@
+{
+    "d2acfa1254f7b31d": {
+        "jwtSecret": "b2Qq3UuRGy3IzknfN4lUruR0tMVAUR4C",
+        "nodeUsers": [
+            {
+                "username": "emanuele",
+                "password": "14c2d89a401d8f919b7b2cd4fece028c691f1c963a93b005c0845c1722df987810d55cfb9d8cde94a5751a4b2b8f60398821217c445e59aec806a1ec12d43a6d",
+                "scope": "admin"
+            }
+        ]
+    },
+    "fd393d2661e67a50": {}
+}
